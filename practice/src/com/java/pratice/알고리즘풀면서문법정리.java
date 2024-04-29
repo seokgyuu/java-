@@ -5,3 +5,5 @@
 //		reverse() : 문자열 역순으로 뒤집기
 //		setLength() : 문자열의 길이 설정
 //		toString() : StringBuilder 객체를 문자열로 변환
+//   	arr = Arrays.stream(arr).distinct().toArray(); arr배열의 중복제거
+
